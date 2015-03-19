@@ -11,3 +11,4 @@ bin/
 _site/
 .idea
 *.iml
+.factorypath
