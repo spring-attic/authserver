@@ -1,3 +1,5 @@
+# This repository is no longer actively maintained by VMware, Inc.
+
 This project is a simple, minimal implementation of an OAuth2
 Authorization Server for use with Spring Cloud sample apps. It has a
 context root of `/uaa` (so that it won't share cookies with other apps
